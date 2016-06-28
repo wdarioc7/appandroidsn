@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">COLDEPORTES</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="boton1">INGRESAR</string>
+    <string name="boton2">Programas Nacionales</string>
+    <string name="boton3">Cálculo IMC</string>
+    <string name="boton4">Creditos</string>
+    <string name="boton5">Salir</string>
+    <string name="title_activity_menu">Menu Principal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity_tres">Calculo IMC</string>
+</resources>
